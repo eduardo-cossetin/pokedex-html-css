@@ -56,16 +56,17 @@ a{
     text-decoration:s none;
     color: white;
     margin: 8px;
+    font-size: 20px;
 }
 
 .linkAzul:hover {
     color: blue;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .linkAmarelo:hover {
     color: rgb(238, 255, 0);
-    font-size: 40px;
+    font-size: 25px;
 }
 
 #agua{
@@ -76,10 +77,17 @@ a{
 
 .image1{
     width: 50%;
+    border-radius: 50%;
+    background-color: rgb(71, 71, 71);
+    border: 5px solid;
 }
 
 #amarelo{
     background-color: rgb(250, 248, 135);
     padding:15px;
     width: 70%;
+}
+
+#image2{
+    padding: 55px;
 }
